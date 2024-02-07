@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: masudeomvn.Mavenjava.Rest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.390 s -- in masudeomvn.Mavenjava.Rest
